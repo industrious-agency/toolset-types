@@ -1,5 +1,5 @@
 {
-    "name": "industrious-agency/toolset-types",
+    "name": "industrious/types",
     "type": "wordpress-plugin",
     "require": {}
 }
